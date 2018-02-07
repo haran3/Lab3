@@ -25,7 +25,7 @@ public class webScraper {
     }
 
     public static int wordNumber(String word) {
-        int count = 1;
+        int count = 0;
         for (int i = 0; i < urlToString("http://erdani.com/tdpl/hamlet.txt").length(); i++) {
 
         }
